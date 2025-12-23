@@ -1,2 +1,2 @@
 # Project-one
-Deep understanding of Git
+Deep understanding of Git.

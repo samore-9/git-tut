@@ -23,4 +23,3 @@ This repository documents my journey of learning **Git** and **GitHub** through 
 * Build confidence using Git and GitHub for real-world projects.
 * Maintain a record of commands, experiments, and learning progress.
 
-This repository will continue to grow as I explore more Git concepts, workflows, and best practices.

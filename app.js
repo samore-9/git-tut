@@ -7,4 +7,5 @@ app.get("/", (res, res){
 
 app.post("/edit", (req, res){
     String name = req.params();
+    res.semd("Edited successfully");
 })

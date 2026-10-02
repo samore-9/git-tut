@@ -45,3 +45,4 @@ app.get("/edit", (req, res){
 })
 
 module.exports = connectDB;
+module.exports = mongoose.model("Student", studentSchema);

@@ -31,8 +31,6 @@ const studentSchema = new mongoose.Schema({
     }
 });
 
-module.exports = connectDB;
-
 app.get("/", (res, res){
     console.log("Backend connected");  
 })
@@ -45,3 +43,5 @@ app.post("/edit", (req, res){
 app.get("/edit", (req, res){
     res.redirect("/edit.js");
 })
+
+module.exports = connectDB;
